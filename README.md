@@ -1,2 +1,2 @@
 # webproject
-My personal site
+mini-project
